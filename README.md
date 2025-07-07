@@ -1,9 +1,4 @@
-## Hi! My name is Sabrina Duda
-
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning SQL and PHP
-
- <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div>
     <a href="https://github.com/SabrinaDudaa">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaDudaa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"/>
