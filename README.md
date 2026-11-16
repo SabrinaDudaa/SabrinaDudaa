@@ -1,23 +1,58 @@
-<!-- Container que alinha os gráficos e os ícones lado a lado -->
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<h1 align="center">Sabrina de Souza Duda</h1>
 
-  <!-- Bloco dos gráficos do GitHub -->
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SabrinaDudaa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaDudaa&layout=compact&langs_count=16&theme=github_dark"/>
-  </div>
+<p align="center">
+  Estudante de Ciência da Computação na UFES (7º período)<br>
+  Em busca de estágio em <b>desenvolvimento de software</b> e <b>testes (QA)</b>
+</p>
 
-  <!-- Bloco dos ícones de tecnologias -->
-  <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-    <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-      <img alt="Sabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img alt="Sabs-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-      <img alt="Sabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img alt="Sabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img alt="Sabs-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-      <img alt="Sabs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-      <img alt="Sabs-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    </div>
-  </div>
+<p align="center">
+  <a href="https://linkedin.com/in/sabrinadudaa">LinkedIn</a> ·
+  <a href="mailto:sabrinadudaa@gmail.com">E-mail</a> ·
+  <a href="https://github.com/SabrinaDudaa?tab=repositories">Repositórios</a>
+</p>
 
-</div>
+---
+
+## Sobre mim
+
+Estudo Ciência da Computação na Universidade Federal do Espírito Santo e trabalho com desenvolvimento web, com foco em **JavaScript, Node.js e React**. Já mantive uma aplicação web na Cinética Jr., construí uma API com PostgreSQL e fui presidente do Centro Acadêmico do curso.
+
+Quero seguir carreira em **testes de software (QA)** e busco um estágio em que eu possa unir desenvolvimento e qualidade.
+
+## Tecnologias
+
+**Linguagens**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40">
+
+**Back-end e front-end**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="React" title="React" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" width="40" height="40">
+
+**Bancos de dados**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40">
+
+**Ferramentas**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40">
+
+Também trabalho com APIs REST e metodologias ágeis.
+
+## Projetos em destaque
+
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| [**ZBot**](https://github.com/SabrinaDudaa/zbot) | Bot de Discord que verifica promoções de jogos (Steam, GOG, Nuuvem e jogos grátis da Epic) e posta as novas num canal, sem repetir ofertas. Inclui um roteiro de testes manuais. | JavaScript, Node.js, discord.js |
+| [**Importador de despesas públicas**](https://github.com/SabrinaDudaa/Public-Expense-Data-Import-and-Web-Reporting-System) | Aplicação web que recebe arquivos JSON ou XML de despesas e gera o script SQL de inserção para o banco de dados. | JavaScript, Node.js, Express, PostgreSQL |
+| [**3D Transformations**](https://github.com/SabrinaDudaa/3D-Transformations) | Visualizador 3D em wireframe com rotação, translação e escala em tempo real, usando matrizes 4x4 implementadas do zero. Inclui um roteiro de testes manuais. | C++, SDL2 |
+
+## Foco atual
+
+- Seguir carreira em **testes de software (QA)**.
+- Evoluir em **JavaScript, Node.js e React**.
