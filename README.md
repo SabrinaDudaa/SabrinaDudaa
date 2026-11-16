@@ -42,8 +42,3 @@ Também trabalho com APIs REST e metodologias ágeis.
 | [**ZBot**](https://github.com/SabrinaDudaa/zbot) | Bot de Discord que verifica promoções de jogos (Steam, GOG, Nuuvem e jogos grátis da Epic) e posta as novas num canal, sem repetir ofertas. Inclui um roteiro de testes manuais. | JavaScript, Node.js, discord.js |
 | [**Importador de despesas públicas**](https://github.com/SabrinaDudaa/Public-Expense-Data-Import-and-Web-Reporting-System) | Aplicação web que recebe arquivos JSON ou XML de despesas e gera o script SQL de inserção para o banco de dados. | JavaScript, Node.js, Express, PostgreSQL |
 | [**3D Transformations**](https://github.com/SabrinaDudaa/3D-Transformations) | Visualizador 3D em wireframe com rotação, translação e escala em tempo real, usando matrizes 4x4 implementadas do zero. Inclui um roteiro de testes manuais. | C++, SDL2 |
-
-## Foco atual
-
-- Seguir carreira em **testes de software (QA)**.
-- Evoluir em **JavaScript, Node.js e React**.
