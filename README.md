@@ -2,7 +2,6 @@
 
 <p align="center">
   Estudante de Ciência da Computação na UFES (7º período)<br>
-  Em busca de estágio em <b>desenvolvimento de software</b> e <b>testes (QA)</b>
 </p>
 
 <p align="center">
