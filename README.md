@@ -10,14 +10,6 @@
   <a href="https://github.com/SabrinaDudaa?tab=repositories">Repositórios</a>
 </p>
 
----
-
-## Sobre mim
-
-Estudo Ciência da Computação na Universidade Federal do Espírito Santo e trabalho com desenvolvimento web, com foco em **JavaScript, Node.js e React**. Já mantive uma aplicação web na Cinética Jr., construí uma API com PostgreSQL e fui presidente do Centro Acadêmico do curso.
-
-Quero seguir carreira em **testes de software (QA)** e busco um estágio em que eu possa unir desenvolvimento e qualidade.
-
 ## Tecnologias
 
 **Linguagens**<br>
